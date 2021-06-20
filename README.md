@@ -39,7 +39,8 @@ or download the **[zip file](https://github.com/akhileshkoti/pc-auto-brightness/
     To do this 
     - Open Run dialog box, enter the following command and press OK
         
-        shell:startup
+            shell:startup
+      
       Now copy the startup.bat shortcut into that folder
     
     or
