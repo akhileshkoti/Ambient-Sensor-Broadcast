@@ -47,7 +47,7 @@ or download the **[zip file](https://github.com/akhileshkoti/pc-auto-brightness/
   
     - Navigate to the following location and paste the shortcut of startup.bat in that location
   
-        C:\Users\[User_Name]\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
+            C:\Users\[User_Name]\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
 
 
  ### Setting up the UDP Broadcast in the android
